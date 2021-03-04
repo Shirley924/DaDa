@@ -51,5 +51,18 @@
     ![image](https://user-images.githubusercontent.com/58549322/109915233-6b583100-7cec-11eb-9d30-ba655d430c0a.png)
 
   
-* practice5-2
+* practice6-1 打磚塊
+  ![image](https://user-images.githubusercontent.com/58549322/109915437-d144b880-7cec-11eb-8134-de0db3f25e3a.png)
+
+* practice6-2 逃離外星人
+  ![image](https://user-images.githubusercontent.com/58549322/109915583-094bfb80-7ced-11eb-8bee-de541f8162a5.png)
+
+* practice7-1 模擬等化器
+  ![image](https://user-images.githubusercontent.com/58549322/109915697-38626d00-7ced-11eb-8a1b-2d58d379e8c0.png)
+  ![image](https://user-images.githubusercontent.com/58549322/109915719-42846b80-7ced-11eb-91a3-b4be7bbb2ea5.png)
+
+* practice7-2 行程規劃
+  ![image](https://user-images.githubusercontent.com/58549322/109915799-6647b180-7ced-11eb-890b-09cb314b302e.png)
+
+* practice7-1
 
