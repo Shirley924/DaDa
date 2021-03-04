@@ -1,0 +1,9 @@
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-2\practice4-2\bin\Debug\practice4-2.exe.config
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-2\practice4-2\bin\Debug\practice4-2.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-2\practice4-2\bin\Debug\practice4-2.pdb
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-2\practice4-2\obj\Debug\practice4-2.csprojResolveAssemblyReference.cache
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-2\practice4-2\obj\Debug\practice4_2.Form1.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-2\practice4-2\obj\Debug\practice4_2.Properties.Resources.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-2\practice4-2\obj\Debug\practice4-2.csproj.GenerateResource.Cache
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-2\practice4-2\obj\Debug\practice4-2.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-2\practice4-2\obj\Debug\practice4-2.pdb
