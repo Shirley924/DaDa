@@ -1,0 +1,13 @@
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\bin\Debug\practice6-1.exe.config
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\bin\Debug\practice6-1.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\bin\Debug\practice6-1.pdb
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\obj\Debug\practice6_1.Form1.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\obj\Debug\practice6_1.Properties.Resources.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\obj\Debug\practice6-1.csproj.GenerateResource.Cache
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\obj\Debug\practice6-1.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\obj\Debug\practice6-1.pdb
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\obj\Debug\practice6-1.csprojResolveAssemblyReference.cache
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\obj\Debug\practice6_1.Form2.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\bin\Debug\可惜音效.wav
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\obj\Debug\practice6_1.Form3.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice6-1\practice6-1\bin\Debug\歡呼音效.wav
