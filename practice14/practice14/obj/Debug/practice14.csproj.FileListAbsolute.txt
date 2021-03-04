@@ -1,0 +1,11 @@
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\bin\Debug\practice14.exe.config
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\bin\Debug\practiceDB (1).mdf
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\bin\Debug\practiceDB (1)_log.ldf
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\bin\Debug\practice14.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\bin\Debug\practice14.pdb
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\obj\Debug\practice14.csprojResolveAssemblyReference.cache
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\obj\Debug\practice14.Form1.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\obj\Debug\practice14.Properties.Resources.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\obj\Debug\practice14.csproj.GenerateResource.Cache
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\obj\Debug\practice14.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice14\practice14\obj\Debug\practice14.pdb
