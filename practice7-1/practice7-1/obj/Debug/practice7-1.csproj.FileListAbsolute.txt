@@ -1,0 +1,10 @@
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\bin\Debug\practice7-1.exe.config
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\obj\Debug\practice7-1.csprojResolveAssemblyReference.cache
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\obj\Debug\practice7_1.Form1.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\obj\Debug\practice7_1.Properties.Resources.resources
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\obj\Debug\practice7-1.csproj.GenerateResource.Cache
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\bin\Debug\practice7-1.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\bin\Debug\practice7-1.pdb
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\obj\Debug\practice7-1.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\obj\Debug\practice7-1.pdb
+D:\NCKU\學校課程\10801\視窗程式設計\practice7-1\practice7-1\bin\Debug\awaken.wav
