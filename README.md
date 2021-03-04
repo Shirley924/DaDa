@@ -20,6 +20,7 @@
    -> Player and enemy attack each other
     > If one’s Random.nextDouble > hitRate, that one’s attack value count as 0
     > Else one’s attack value = attack * (strong or weak) * attackBuff
+    
    -> Then show
     > Player & enemy’s type
     > Player & enemy’s health before attack
@@ -28,4 +29,12 @@
  
   3. outcome
   ![image](https://user-images.githubusercontent.com/58549322/109910742-d18c8600-7ce3-11eb-94e4-2aace5f219e8.png)
+  
+* practice4-2 ATM
+  1. an ATM Simulator that can withdraw NTD from the ATM
+    ![image](https://user-images.githubusercontent.com/58549322/109914556-3b5c5e00-7ceb-11eb-84f8-2082c7bb849a.png)
+    ![image](https://user-images.githubusercontent.com/58549322/109914580-47e0b680-7ceb-11eb-8ac9-a96965f75390.png)
+    ![image](https://user-images.githubusercontent.com/58549322/109914601-53cc7880-7ceb-11eb-891f-4942f62bf94c.png)
+    ![image](https://user-images.githubusercontent.com/58549322/109914621-5af38680-7ceb-11eb-8cde-27cead0afd06.png)
+
 
