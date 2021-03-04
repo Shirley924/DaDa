@@ -68,5 +68,21 @@
 
   ![image](https://user-images.githubusercontent.com/58549322/109915799-6647b180-7ced-11eb-890b-09cb314b302e.png)
 
-* practice7-1
+* practice8-1 圖片檢視器
+
+![image](https://user-images.githubusercontent.com/58549322/109916449-99d70b80-7cee-11eb-8749-1a7f668ff34f.png)
+
+* practice8-2 視力測驗
+
+![image](https://user-images.githubusercontent.com/58549322/109916462-a3f90a00-7cee-11eb-84c0-784f5983d227.png)
+![image](https://user-images.githubusercontent.com/58549322/109916482-ad827200-7cee-11eb-8a09-dc0f215d9ff7.png)
+
+* practice14 Database Relation
+
+![image](https://user-images.githubusercontent.com/58549322/109916580-d571d580-7cee-11eb-9fdf-473b073187cc.png)
+
+* practice15 DataReader
+
+![image](https://user-images.githubusercontent.com/58549322/109916714-10740900-7cef-11eb-8af9-3c859f6fdbe7.png)
+
 
