@@ -32,9 +32,6 @@
   
 * practice4-2 ATM
   1. an ATM Simulator that can withdraw NTD from the ATM
-    ![image](https://user-images.githubusercontent.com/58549322/109914556-3b5c5e00-7ceb-11eb-84f8-2082c7bb849a.png)
-    ![image](https://user-images.githubusercontent.com/58549322/109914580-47e0b680-7ceb-11eb-8ac9-a96965f75390.png)
-    ![image](https://user-images.githubusercontent.com/58549322/109914601-53cc7880-7ceb-11eb-891f-4942f62bf94c.png)
-    ![image](https://user-images.githubusercontent.com/58549322/109914621-5af38680-7ceb-11eb-8cde-27cead0afd06.png)
 
+* practice4-2 
 
