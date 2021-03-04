@@ -10,4 +10,22 @@
   ![image](https://user-images.githubusercontent.com/58549322/109910264-ad7c7500-7ce2-11eb-820d-b62ab2b63a74.png)
 
   
-* practice
+* practice4-1 FGO-alike console program
+  1. create character
+  ![image](https://user-images.githubusercontent.com/58549322/109910582-6c389500-7ce3-11eb-9d33-dcba6b72757c.png)
+
+  2. procedure
+   -> Enter y to continue the game, n to end the game
+   -> Create two object, player & enemy, both is random from 7 kinds of object
+   -> Player and enemy attack each other
+    > If one’s Random.nextDouble > hitRate, that one’s attack value count as 0
+    > Else one’s attack value = attack * (strong or weak) * attackBuff
+   -> Then show
+    > Player & enemy’s type
+    > Player & enemy’s health before attack
+    > Player & enemy’s attack value
+    > Player & enemy’s health after attack
+ 
+  3. outcome
+  ![image](https://user-images.githubusercontent.com/58549322/109910742-d18c8600-7ce3-11eb-94e4-2aace5f219e8.png)
+
