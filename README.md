@@ -52,6 +52,7 @@
 
   
 * practice6-1 打磚塊
+
   ![image](https://user-images.githubusercontent.com/58549322/109915437-d144b880-7cec-11eb-8134-de0db3f25e3a.png)
 
 * practice6-2 逃離外星人
