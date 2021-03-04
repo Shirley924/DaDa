@@ -1,0 +1,6 @@
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-1\practice4-1\bin\Debug\practice4-1.exe.config
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-1\practice4-1\bin\Debug\practice4-1.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-1\practice4-1\bin\Debug\practice4-1.pdb
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-1\practice4-1\obj\Debug\practice4-1.csprojResolveAssemblyReference.cache
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-1\practice4-1\obj\Debug\practice4-1.exe
+D:\NCKU\學校課程\10801\視窗程式設計\practice4-1\practice4-1\obj\Debug\practice4-1.pdb
